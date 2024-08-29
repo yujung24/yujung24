@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&height=140&color=gradient&text=YU%20JUNG&section=header&reversal=false&fontSize=26&rotate=0&descAlign=50&desc=yujung24&descSize=10&textBg=false&descAlignY=63&fontAlign=50)
+![header](https://capsule-render.vercel.app/api?type=venom&height=150&color=gradient&text=YU%20JUNG&fontSize=25&desc=yujung24&descSize=12&descAlignY=59&fontAlignY=46)
 
 
 ## :yum: I'm Yujung Jung 
@@ -9,10 +9,14 @@
   <br> :o: email :email: : srtt624@naver.com
   
 
-  :o: I’m interested in Humanoid Walking
-
-  <!-- <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&layout=compact)](https://github.com/yujung24/github-readme-stats) <br> -->
+  :o: I’m interested in Humanoid Walking    
+  <dir>
   
+  :o: **contact** 
+  
+  [<img align="left" alt="yujung | Instagram" width="48px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
+  <!-- <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&layout=compact)](https://github.com/yujung24/github-readme-stats) <br> -->
+  [instagram]: https://instagram.com/u_u.jng
 </div>
   
 
