@@ -1,5 +1,10 @@
-## 정유정 👋
+![header](https://capsule-render.vercel.app/api?type=venom&height=140&color=gradient&text=YU%20JUNG&section=header&reversal=false&fontSize=26&rotate=0&descAlign=50&desc=yujung24&descSize=10&textBg=false&descAlignY=63&fontAlign=50)
 
+
+
+#22314E
+
+##
 <!--
 **yujung24/yujung24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
