@@ -8,7 +8,6 @@
   
   <br> :o: email :email: : srtt624@naver.com
   
-  :o: Location : Seoul, Korea
 
   :o: I’m interested in Humanoid Walking
 
