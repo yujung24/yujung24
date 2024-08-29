@@ -12,7 +12,7 @@
   :o: I’m interested in Humanoid Walking    
   <dir>
   
-  :o: **contact** 
+  <!-- :o: **contact** -->
   
   <!-- [<img align="left" alt="yujung | Instagram" width="48px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
   <!-- <br> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&layout=compact)](https://github.com/yujung24/github-readme-stats) <br> -->
