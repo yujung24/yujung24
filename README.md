@@ -13,7 +13,7 @@
   <dir>
 
 
-  <a href="https://github.com/yujung24"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&layout=compact&theme=nord&hide_border=true" /></a>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&exclude_repo=yujung24.github.io&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <!-- :o: **contact** -->
   
   <!-- [<img align="left" alt="yujung | Instagram" width="48px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
