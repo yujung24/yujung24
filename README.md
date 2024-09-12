@@ -11,7 +11,9 @@
 
   :o: I’m interested in Humanoid Walking    
   <dir>
-  
+
+
+  <a href="https://github.com/yujung24"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&layout=compact&theme=nord&hide_border=true" /></a>
   <!-- :o: **contact** -->
   
   <!-- [<img align="left" alt="yujung | Instagram" width="48px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
