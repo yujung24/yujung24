@@ -13,7 +13,7 @@
   <dir>
 
 
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&exclude_repo=yujung24.github.io&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&exclude_repo=yujung24.github.io&count_private=true&layout=compact&theme=nord&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <!-- :o: **contact** -->
   
   <!-- [<img align="left" alt="yujung | Instagram" width="48px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
