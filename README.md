@@ -15,7 +15,7 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujung24&exclude_repo=yujung24.github.io&count_private=true&layout=compact&theme=nord&hide_border=true)](https://github.com/yujung24/yujung24)
 
-  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=matlab,cpp,c&theme=dark" height="38px"/>
+  &nbsp;&nbsp;&nbsp;<img src="https://skillicons.dev/icons?i=matlab,cpp,c,ros&theme=dark" height="38px"/>
   <!-- :o: **contact** -->
   
   <!-- [<img align="left" alt="yujung | Instagram" width="48px" src="https://img.icons8.com/fluency/48/instagram-new.png" />][instagram]
